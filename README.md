@@ -5,6 +5,8 @@
 2. build the opencv.sln using VS2013
 
 ####How to build OpenCV for Windows Phone 8.0
+####How to build OpenCV for Windows Phone 8.0
+####How to build OpenCV for Windows Phone 8.0
 1. open the binWP8 folder
 2. build the opencv.sln using VS2012 or VS2013
 3. 
